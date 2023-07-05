@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d36b55f9.css",
+    "main.js": "/static/js/main.0b965507.js",
+    "static/js/787.8f3cf0cb.chunk.js": "/static/js/787.8f3cf0cb.chunk.js",
+    "static/media/background.webp": "/static/media/background.1d2189757d68ea8b379d.webp",
+    "static/media/porto_1.webp": "/static/media/porto_1.54df4ceeade1518a5b50.webp",
+    "static/media/modern1.webp": "/static/media/modern1.5527ecdb3f16b358236d.webp",
+    "static/media/mysql.webp": "/static/media/mysql.2bdc917658603ba63e10.webp",
+    "static/media/ak1 (0).webp": "/static/media/ak1 (0).e77294f46df680dd4c7f.webp",
+    "static/media/git.webp": "/static/media/git.ca69f70358fdf3c4e0bb.webp",
+    "static/media/ayam_kenangan.webp": "/static/media/ayam_kenangan.c3cf279b9d46ebacdcd3.webp",
+    "static/media/ak1 (5).webp": "/static/media/ak1 (5).7eb007928f1f03cde007.webp",
+    "static/media/mobile.webp": "/static/media/mobile.b59aeeb82d4f4f91b74a.webp",
+    "static/media/ak1 (4).webp": "/static/media/ak1 (4).f675528fdbd418696001.webp",
+    "static/media/laravel.webp": "/static/media/laravel.8e166f9ac46c6757f0f9.webp",
+    "static/media/ak1 (1).webp": "/static/media/ak1 (1).87964fac8e6a8ed28201.webp",
+    "static/media/ak1 (3).webp": "/static/media/ak1 (3).ec9feedb23c3b8d482f4.webp",
+    "static/media/ak1 (6).webp": "/static/media/ak1 (6).5d348c2b687c974c7a1f.webp",
+    "static/media/ak1 (2).webp": "/static/media/ak1 (2).e3608c3ace575309dec9.webp",
+    "static/media/photoshop.webp": "/static/media/photoshop.317fc09151135c8200ba.webp",
+    "static/media/react.webp": "/static/media/react.ba99259061d05d9a8a83.webp",
+    "static/media/bootstrap.webp": "/static/media/bootstrap.b6169d9676b51426db33.webp",
+    "static/media/ak1 (7).webp": "/static/media/ak1 (7).89976be2ac836605e912.webp",
+    "static/media/icon.webp": "/static/media/icon.f8fe30a4165f7cc3a3a5.webp",
+    "static/media/unity.webp": "/static/media/unity.31f33965d79b55c6c513.webp",
+    "static/media/postgresql.webp": "/static/media/postgresql.fef5dc8fe873c96dd395.webp",
+    "static/media/rest-api.webp": "/static/media/rest-api.2a63580827fae5bc29ad.webp",
+    "static/media/figma.webp": "/static/media/figma.25ad54daf3202711a54f.webp",
+    "static/media/typescript.webp": "/static/media/typescript.8c5498b94c7bb69ceb9a.webp",
+    "static/media/jquery.webp": "/static/media/jquery.207ad063d9d33bb2d169.webp",
+    "static/media/whatsapp.svg": "/static/media/whatsapp.ee9a49ce36fb2f4452cd2ffb9e8d88b6.svg",
+    "index.html": "/index.html",
+    "main.d36b55f9.css.map": "/static/css/main.d36b55f9.css.map",
+    "main.0b965507.js.map": "/static/js/main.0b965507.js.map",
+    "787.8f3cf0cb.chunk.js.map": "/static/js/787.8f3cf0cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d36b55f9.css",
+    "static/js/main.0b965507.js"
+  ]
+}
